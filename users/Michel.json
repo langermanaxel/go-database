@@ -1,0 +1,12 @@
+{
+	"Name": "Michel",
+	"Age": 25,
+	"Contact": "774441258",
+	"Company": "Tecno Point",
+	"Address": {
+		"City": "CABA",
+		"State": "Buenos Aires",
+		"Country": "Argentina",
+		"Pincode": 1238
+	}
+}

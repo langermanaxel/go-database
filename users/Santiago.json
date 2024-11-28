@@ -1,0 +1,12 @@
+{
+	"Name": "Santiago",
+	"Age": 28,
+	"Contact": "775533995",
+	"Company": "Arquitechture",
+	"Address": {
+		"City": "Gualeguaychu",
+		"State": "Entre Rios",
+		"Country": "Argentina",
+		"Pincode": 4562
+	}
+}

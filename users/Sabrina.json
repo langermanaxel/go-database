@@ -1,0 +1,12 @@
+{
+	"Name": "Sabrina",
+	"Age": 33,
+	"Contact": "123459876",
+	"Company": "SAP",
+	"Address": {
+		"City": "Rosario",
+		"State": "Santa Fe",
+		"Country": "Argentina",
+		"Pincode": 7786
+	}
+}

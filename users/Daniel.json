@@ -1,0 +1,12 @@
+{
+	"Name": "Daniel",
+	"Age": 20,
+	"Contact": "987654321",
+	"Company": "Tech Town",
+	"Address": {
+		"City": "Cordoba",
+		"State": "Cordoba",
+		"Country": "Argentina",
+		"Pincode": 3025
+	}
+}

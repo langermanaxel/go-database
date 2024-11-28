@@ -1,0 +1,12 @@
+{
+	"Name": "Marta",
+	"Age": 30,
+	"Contact": "543216789",
+	"Company": "PoliTech",
+	"Address": {
+		"City": "Rio Gallegos",
+		"State": "Santa Cruz",
+		"Country": "Argentina",
+		"Pincode": 9971
+	}
+}

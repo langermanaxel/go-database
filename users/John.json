@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 23,
+	"Contact": "123456789",
+	"Company": "Software Factory",
+	"Address": {
+		"City": "CABA",
+		"State": "Buenos Aires",
+		"Country": "Argentina",
+		"Pincode": 1403
+	}
+}
